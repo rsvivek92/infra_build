@@ -1,8 +1,0 @@
-instance_name: poc_gi
-instances:
-  - parameter1: Instance1
-    parameter2: Variables1
-    parameter3: ip-172-31-28-5.ec2.internal
-  - parameter1: Instance2
-    parameter2: Variables2
-    parameter3: ip-172-31-24-176.ec2.internal
